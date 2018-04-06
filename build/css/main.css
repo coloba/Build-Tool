@@ -1,0 +1,6 @@
+body {
+  background: red;
+  color: white;
+  -webkit-transition: all 1s ease-in;
+  transition: all 1s ease-in;
+}

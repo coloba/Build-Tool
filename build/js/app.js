@@ -1,0 +1,1 @@
+console.log("Hello world"),console.log("Hello world"),document.querySelectorAll(".btn").addEventLister("click",function(){console.log("hello world")});
